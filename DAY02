@@ -1,0 +1,3 @@
+Actually 2 days after DAY01. Today I spent most of my time reading documents and watching guides. I also just set up my GitHub, Lapse, and Hackatime.
+For actual work on the hackpad, I was able to get the matrix done for the switches and added the OLED screen to the schematic. Although, I'm unsure if GND labels signify connections without the use of wires in KiCad.
+I also assigned footprints and called it a day. I plan on spending some more time on guides so that I can better understand what I am doing, but I am beginning to understand my schematic more.
