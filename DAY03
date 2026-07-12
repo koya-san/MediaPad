@@ -1,0 +1,5 @@
+I spent most of DAY03 trying to figure out more of KiCad and trying to get my through-hole components to show up in the 3D viewer. My guess is that there is something wrong with the Joe Scotto footprints.
+I might test new footprint assignments in the 3D viewer.
+I had a minor inconvenience with my diode wire routing that I fixed by using a CherryMX footprint provided by Joe Scotto. I am currently using the Joe Scotto guide to help with wiring my matrix.
+Finished wiring my columns, rows, and OLED to the microcontroller but I now have 19 warnings in the DRC to sort through. I'm wondering if it is a problem with my vias or simply just the funky routing I have for
+my rows and columns. My next step will likely be learning how to read the DRC warnings.
