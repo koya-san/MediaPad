@@ -1,0 +1,7 @@
+This entry is for 7.14.2026.
+I started DAY04 off with clearing up the warnings for my PCB design. I simply had to fix my edge cut so that the XIAO isn't cut off. The rest of the warnings were silkscreen warnings that I was told I could just ignore.
+The majority of the day was spent looking at forums and ChatGPT to figure out what was wrong with my 3D models not showing. I knew they had to be associated with my footprints. Eventually, I found out how to link the .step
+files. I think the issue stems from my path configurations. Some paths are slightly off since you need to click another folder, but most are actually correct but say file not found. I think it has something to do with the
+variables (the names I set for my paths), but I really am not sure. I will definitely try to get help with this since I would like to avoid having to repath every 3D model for every footprint for future projects.
+I also need to figure out the rules for Lapse. I was told by a friend about how you should be pausing properly, but I'm not sure if I should record myself reading forums and stuff. I'll be asking these questions to the Slack.
+The goal for DAY05 is to review the PCB guide listed in Tips and Resources for the hackpad guide, get some feedback on my PCB design, add drawings to my PCB, start my case design, and get close to finishing my case design.
