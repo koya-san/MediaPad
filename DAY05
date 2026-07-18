@@ -1,0 +1,7 @@
+I started DAY05 off with editing my schematic to make tracing easier as I wanted my traces to be a little prettier so that I do not have to use vias.
+I moved on by tracing. I read in the PCB guide to avoid traces near the edge and avoid 90 degree bends but I am not really sure which situations you want to actually follow these rules in, so to be safe I just followed them
+anyways. My traces still ended up looking pretty neat so I'd say my routing was pretty successful. I then added fill zones. I don't entirely understand what purpose (outside of aesthetics) but I decided to just do them anyways.
+I finished DAY05 off with adding text and an image for personalization.
+A lot of time was spent redoing my traces.
+I think I will look for feedback on my schematic and PCB if that is not already a part of the submission process.
+My plans for DAY06 are to start and finish the case design.
