@@ -1,5 +1,6 @@
 # MediaPad
-I am making a macropad under Hack Club. My goal with this macropad is to allow for dedicated macros for streaming and editing alonside a screen that states which OBS I am on.
+I am making a macropad under Hack Club. My goal with this macropad is to allow for dedicated macros for streaming and editing alongside a screen that states which OBS I am on.
+The macropad is a 3x3 that used MX-style switches and a 128x32 OLED screen. Side note, some files are named StreamerPad, the old name I gave for this project that I would sometimes mix up with MediaPad :P
 <img width="520" height="588" alt="Screenshot 2026-08-23 181154" src="https://github.com/user-attachments/assets/ceda1bd8-1914-4d45-9de6-4ab6da1e7d43" />
 <img width="1212" height="817" alt="Screenshot 2026-08-23 181212" src="https://github.com/user-attachments/assets/c3658f89-916e-4c0d-bc05-b15940da3fa6" />
 <img width="716" height="857" alt="Screenshot 2026-08-23 181235" src="https://github.com/user-attachments/assets/3b5fa165-f830-455a-9e77-5af88e10ec1c" />
